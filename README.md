@@ -113,10 +113,8 @@ By the end of the course, you will be able to ...
 [URLs, HTTP, REST & Error Handling]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/05-URLs-HTTP-REST-and-Reading-Errors/README
 [Testing RESTful Routes]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/06-Testing-RESTful-Routes/README
 [Model, View, Controller & Review]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/07-Model-View-Controller/README
-[Document-based Databases]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/07-Document-Based-Databases/README
-[ERDs, Resource Associations, & MongoDB]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/08-ERDs-Resource-Associations-and-MongoDB/README
-[Project Planning & User-Centered Development]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/09-Project-Planning-and-User-Centered-Development/README
-[The DOM & Bootstrap]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/10-The-DOM-and-Bootstrap/README
+[Document-based Databases]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/08-Document-Based-Databases/README
+[ERDs, Resource Associations, & MongoDB]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/09-ERDs-Resource-Associations-and-MongoDB/README
 [RESTful APIs & Deployment Environments]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/11-RESTful-APIs-and-Deployment-Environments/README
 
 <!-- CS LESSONS -->
