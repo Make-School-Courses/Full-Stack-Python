@@ -70,8 +70,8 @@ By the end of the course, you will be able to ...
 | 19 | Thu, Sep 26 | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [ERDs, Resource Associations, & MongoDB]| Dani Roxberry | Meredith Murphy |
 | 20 | Mon, Sep 30 | OOP 2 <br/> OOP 3             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
 | 21 | Tue, Oct 1  | - | Contractor Project Lab Day | Dani Roxberry | Meredith Murphy |
-| 22 | Wed, Oct 2  | -                             | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
-| 23 | Thu, Oct 3  | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
+| 22 | Wed, Oct 2  | -                             | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
+| 23 | Thu, Oct 3  | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
 | 24 | Mon, Oct 7  | -                             | Herd Immunity Lab | Jess Dahmen | Alan Davis |
 | 25 | Tue, Oct 8  | -                             | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
 | 26 | Wed, Oct 9  | RESTful APIs & Deployment Environments <br/> Computer Components & Organization <br/> CPU Instructions & Memory | Project Lab Day | Both | Both |
