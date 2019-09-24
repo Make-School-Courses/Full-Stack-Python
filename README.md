@@ -65,13 +65,13 @@ By the end of the course, you will be able to ...
 | 13 | Wed, Sep 18 | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling | [OOP Part 1: Encapsulation] | Jess Dahmen | Alan Davis |
 | 15 | Thu, Sep 19 | -                             | [Model, View, Controller & Review] | Dani Roxberry | Meredith Murphy |
 | 16 | Mon, Sep 23 | Debugging & Testing <br/> OOP 1 | [OOP Part 2: Inheritance] | Jess Dahmen | Alan Davis |
-| 17 | Tue, Sep 24 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
+| 17 | Tue, Sep 24 | -                             | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
 | 18 | Wed, Sep 25 | -                             | [OOP Part 3: Polymorphism] | Jess Dahmen | Alan Davis |
-| 19 | Thu, Sep 26 | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [ERDs, Resource Associations, & MongoDB]| Dani Roxberry | Meredith Murphy |
+| 19 | Thu, Sep 26 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [ERDs, Resource Associations, & MongoDB]| Dani Roxberry | Meredith Murphy |
 | 20 | Mon, Sep 30 | OOP 2 <br/> OOP 3             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
 | 21 | Tue, Oct 1  | - | Contractor Project Lab Day | Dani Roxberry | Meredith Murphy |
 | 22 | Wed, Oct 2  | -                             | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
-| 23 | Thu, Oct 3  | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
+| 23 | Thu, Oct 3  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
 | 24 | Mon, Oct 7  | -                             | Herd Immunity Lab | Jess Dahmen | Alan Davis |
 | 25 | Tue, Oct 8  | -                             | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
 | 26 | Wed, Oct 9  | RESTful APIs & Deployment Environments <br/> Computer Components & Organization <br/> CPU Instructions & Memory | Project Lab Day | Both | Both |
