@@ -132,7 +132,7 @@ By the end of the course, you will be able to ...
 [CPU Instructions & Memory]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/12-CPU-Instructions-Memory
 
 
-## Class Assignments
+## Assignments
 
 ### Homework
 
@@ -140,7 +140,7 @@ In addition to the assignments below, you will have smaller coding challenges, g
 
 ### Quizzes
 
-There will be **10 quizzes** held during this course. **Please reference the above schedule for quiz topics and dates.** These quizzes will be used in place of a final exam. Your lowest two quiz scores will be dropped, so your _total quiz score will be based off of the other eight.
+There will be **8 quizzes** held during this course. **Please reference the above schedule for quiz topics and dates.** These quizzes will be used in place of a final exam. Your lowest two quiz scores will be dropped, so your total quiz score will be based off of the other eight.
 
 Quizzes will cover all topics outlined in the schedule, with the **exception** of the following:
 
@@ -193,10 +193,16 @@ Please refer to class materials to see which assignments require code reviews or
 
 ### Project Submission
 
-In addition to using the submission forms above, you will be expected to log your progress in the course progress trackers. 
+To submit each project for feedback and grading, be sure to follow each step below:
+- Self-assess your project code against the evaluation criteria in the associated project rubric.
+- Submit your rubric scores with the appropriate submission form linked in the schedule above.
+- Update your entire row of the appropriate course progress tracker after submitting the form:
+  - [CS 1.1 Progress Tracker][]
+  - [BEW 1.1 Progress Tracker][]
 
-- [CS 1.1 Progress Tracker][]
-- [BEW 1.1 Progress Tracker][]
+Refer to the assignment schedule above for the due date of each project.
+Submissions will be accepted until midnight on the due date.
+Late submissions will not be graded.
 
 <!-- PROGRESS TRACKERS -->
 [CS 1.1 Progress Tracker]: https://make.sc/cs11-progress
@@ -204,8 +210,8 @@ In addition to using the submission forms above, you will be expected to log you
 
 ## Evaluation
 
-Due to the combined nature of this course, evaluation will be based on the evaluation criteria of each individual course. **To pass this class, you must meet the evaluation criteria of both courses.** If you satisfy the criteria for one course but not the other, you will need to re-take that course in a future term.
-
+Due to the combined nature of this course, evaluation will be based on the evaluation criteria of each individual course.
+If you satisfy the criteria for one course but not the other, you will pass one course but need to re-take the other course in a future term.
 For example, if by the end of the term you meet the evaluation criteria for CS 1.1 but not BEW 1.1, you would have to take BEW 1.1 in a future term.
 
 ### Individual Evaluation Criteria
