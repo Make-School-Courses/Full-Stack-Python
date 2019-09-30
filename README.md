@@ -46,8 +46,8 @@ By the end of the course, you will be able to ...
 
 ### Course Calendar
 
-| Class |   Date   |          Quiz Topics          |              Class Topics               | Teacher (A & C Sections) | Teacher (B & D Sections)
-|:--:|:-----------:|:-----------------------------:|:---------------------------------------:|:-----------------------:|:--------------------------:|
+| Class |   Date   |          Quiz Topics          |              Class Topics               | Instructor (Sections A & C) | Instructor (Sections B & D) |
+|:--:|:-----------:|:-----------------------------:|:---------------------------------------:|:---------------------------:|:---------------------------:|
 |  1 | Mon, Aug 26 | -                             | [Welcome] + [Static Website] | Dani Roxberry | Meredith Murphy |
 |  2 | Tue, Aug 27 | -                             | [Git & GitHub] | Dani Roxberry | Meredith Murphy |
 |  3 | Wed, Aug 28 | -                             | [Variables, Functions & Program Design] | Jess Dahmen | Alan Davis |
@@ -64,18 +64,18 @@ By the end of the course, you will be able to ...
 | 14 | Tue, Sep 17 | Intro to Flask <br/> Flask Templating | [Testing RESTful Routes] | Dani Roxberry | Meredith Murphy |
 | 13 | Wed, Sep 18 | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling | [OOP Part 1: Encapsulation] | Jess Dahmen | Alan Davis |
 | 15 | Thu, Sep 19 | -                             | [Model, View, Controller & Review] | Dani Roxberry | Meredith Murphy |
-| 16 | Mon, Sep 23 | Debugging & Testing <br/> OOP 1 | [OOP Part 2: Inheritance] | Jess Dahmen | Alan Davis |
+| 16 | Mon, Sep 23 | -                             | [OOP Part 2: Inheritance] | Jess Dahmen | Alan Davis |
 | 17 | Tue, Sep 24 | -                             | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
 | 18 | Wed, Sep 25 | -                             | [OOP Part 3: Polymorphism] | Jess Dahmen | Alan Davis |
 | 19 | Thu, Sep 26 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [ERDs, Resource Associations, & MongoDB]| Dani Roxberry | Meredith Murphy |
-| 20 | Mon, Sep 30 | OOP 2 <br/> OOP 3             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
-| 21 | Tue, Oct 1  | - | Contractor Project Lab Day | Dani Roxberry | Meredith Murphy |
-| 22 | Wed, Oct 2  | -                             | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
+| 20 | Mon, Sep 30 | -                             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
+| 21 | Tue, Oct 1  | -                             | Contractor Project Lab | Dani Roxberry | Meredith Murphy |
+| 22 | Wed, Oct 2  | Debugging & Testing <br/> OOP Parts 1, 2 & 3 | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
 | 23 | Thu, Oct 3  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
-| 24 | Mon, Oct 7  | -                             | Herd Immunity Lab | Jess Dahmen | Alan Davis |
-| 25 | Tue, Oct 8  | -                             | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
-| 26 | Wed, Oct 9  | RESTful APIs & Deployment Environments <br/> Computer Components & Organization <br/> CPU Instructions & Memory | Project Lab Day | Both | Both |
-| 27 | Thu, Oct 10 | -                             | Final Contractor Project Presentations | | |
+| 24 | Mon, Oct 7  | -                             | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
+| 25 | Tue, Oct 8  | -                             | Contractor Project Lab | Dani Roxberry | Meredith Murphy |
+| 26 | Wed, Oct 9  | Computer Components & Organization <br/> CPU Instructions & Memory | Herd Immunity Simulation Project Lab | Jess Dahmen | Alan Davis |
+| 27 | Thu, Oct 10 | -                             | Final Contractor Project Presentations | Dani Roxberry | Meredith Murphy |
 
 ### Assignment Schedule
 
