@@ -46,8 +46,8 @@ By the end of the course, you will be able to ...
 
 ### Course Calendar
 
-| Class |   Date   |          Quiz Topics          |              Class Topics               | Teacher (A & C Sections) | Teacher (B & D Sections)
-|:--:|:-----------:|:-----------------------------:|:---------------------------------------:|:-----------------------:|:--------------------------:|
+| Class |   Date   |          Quiz Topics          |              Class Topics               | Instructor (Sections A & C) | Instructor (Sections B & D) |
+|:--:|:-----------:|:-----------------------------:|:---------------------------------------:|:---------------------------:|:---------------------------:|
 |  1 | Mon, Aug 26 | -                             | [Welcome] + [Static Website] | Dani Roxberry | Meredith Murphy |
 |  2 | Tue, Aug 27 | -                             | [Git & GitHub] | Dani Roxberry | Meredith Murphy |
 |  3 | Wed, Aug 28 | -                             | [Variables, Functions & Program Design] | Jess Dahmen | Alan Davis |
@@ -64,18 +64,24 @@ By the end of the course, you will be able to ...
 | 14 | Tue, Sep 17 | Intro to Flask <br/> Flask Templating | [Testing RESTful Routes] | Dani Roxberry | Meredith Murphy |
 | 13 | Wed, Sep 18 | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling | [OOP Part 1: Encapsulation] | Jess Dahmen | Alan Davis |
 | 15 | Thu, Sep 19 | -                             | [Model, View, Controller & Review] | Dani Roxberry | Meredith Murphy |
-| 16 | Mon, Sep 23 | Debugging & Testing <br/> OOP 1 | [OOP Part 2: Inheritance] | Jess Dahmen | Alan Davis |
+| 16 | Mon, Sep 23 | -                             | [OOP Part 2: Inheritance] | Jess Dahmen | Alan Davis |
 | 17 | Tue, Sep 24 | -                             | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
 | 18 | Wed, Sep 25 | -                             | [OOP Part 3: Polymorphism] | Jess Dahmen | Alan Davis |
 | 19 | Thu, Sep 26 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [ERDs, Resource Associations, & MongoDB]| Dani Roxberry | Meredith Murphy |
+<<<<<<< HEAD
 | 20 | Mon, Sep 30 | OOP 2 <br/> OOP 3             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
 | 21 | Tue, Oct 1  | - | [Project Planning and User-Centered Development] | Dani Roxberry | Meredith Murphy |
 | 22 | Wed, Oct 2  | -                             | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
+=======
+| 20 | Mon, Sep 30 | -                             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
+| 21 | Tue, Oct 1  | -                             | Contractor Project Lab | Dani Roxberry | Meredith Murphy |
+| 22 | Wed, Oct 2  | Debugging & Testing <br/> OOP Parts 1, 2 & 3 | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
+>>>>>>> 334301e40b0874cd3c3fc56700ef69dd0d37865d
 | 23 | Thu, Oct 3  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
-| 24 | Mon, Oct 7  | -                             | Herd Immunity Lab | Jess Dahmen | Alan Davis |
-| 25 | Tue, Oct 8  | -                             | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
-| 26 | Wed, Oct 9  | RESTful APIs & Deployment Environments <br/> Computer Components & Organization <br/> CPU Instructions & Memory | Project Lab Day | Both | Both |
-| 27 | Thu, Oct 10 | -                             | Final Contractor Project Presentations | | |
+| 24 | Mon, Oct 7  | -                             | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
+| 25 | Tue, Oct 8  | -                             | Contractor Project Lab | Dani Roxberry | Meredith Murphy |
+| 26 | Wed, Oct 9  | Computer Components & Organization <br/> CPU Instructions & Memory | Herd Immunity Simulation Project Lab | Jess Dahmen | Alan Davis |
+| 27 | Thu, Oct 10 | -                             | Final Contractor Project Presentations | Dani Roxberry | Meredith Murphy |
 
 ### Assignment Schedule
 
@@ -133,7 +139,7 @@ By the end of the course, you will be able to ...
 [CPU Instructions & Memory]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/12-CPU-Instructions-Memory
 
 
-## Class Assignments
+## Assignments
 
 ### Homework
 
@@ -141,7 +147,7 @@ In addition to the assignments below, you will have smaller coding challenges, g
 
 ### Quizzes
 
-There will be **10 quizzes** held during this course. **Please reference the above schedule for quiz topics and dates.** These quizzes will be used in place of a final exam. Your lowest two quiz scores will be dropped, so your _total quiz score will be based off of the other eight.
+There will be **8 quizzes** held during this course. **Please reference the above schedule for quiz topics and dates.** These quizzes will be used in place of a final exam. Your lowest two quiz scores will be dropped, so your total quiz score will be based off of the other eight.
 
 Quizzes will cover all topics outlined in the schedule, with the **exception** of the following:
 
@@ -194,10 +200,16 @@ Please refer to class materials to see which assignments require code reviews or
 
 ### Project Submission
 
-In addition to using the submission forms above, you will be expected to log your progress in the course progress trackers. 
+To submit each project for feedback and grading, be sure to follow each step below:
+- Self-assess your project code against the evaluation criteria in the associated project rubric.
+- Submit your rubric scores with the appropriate submission form linked in the schedule above.
+- Update your entire row of the appropriate course progress tracker after submitting the form:
+  - [CS 1.1 Progress Tracker][]
+  - [BEW 1.1 Progress Tracker][]
 
-- [CS 1.1 Progress Tracker][]
-- [BEW 1.1 Progress Tracker][]
+Refer to the assignment schedule above for the due date of each project.
+Submissions will be accepted until midnight on the due date.
+Late submissions will not be graded.
 
 <!-- PROGRESS TRACKERS -->
 [CS 1.1 Progress Tracker]: https://make.sc/cs11-progress
@@ -205,8 +217,8 @@ In addition to using the submission forms above, you will be expected to log you
 
 ## Evaluation
 
-Due to the combined nature of this course, evaluation will be based on the evaluation criteria of each individual course. **To pass this class, you must meet the evaluation criteria of both courses.** If you satisfy the criteria for one course but not the other, you will need to re-take that course in a future term.
-
+Due to the combined nature of this course, evaluation will be based on the evaluation criteria of each individual course.
+If you satisfy the criteria for one course but not the other, you will pass one course but need to re-take the other course in a future term.
 For example, if by the end of the term you meet the evaluation criteria for CS 1.1 but not BEW 1.1, you would have to take BEW 1.1 in a future term.
 
 ### Individual Evaluation Criteria
