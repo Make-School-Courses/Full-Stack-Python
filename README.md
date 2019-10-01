@@ -68,15 +68,9 @@ By the end of the course, you will be able to ...
 | 17 | Tue, Sep 24 | -                             | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
 | 18 | Wed, Sep 25 | -                             | [OOP Part 3: Polymorphism] | Jess Dahmen | Alan Davis |
 | 19 | Thu, Sep 26 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [ERDs, Resource Associations, & MongoDB]| Dani Roxberry | Meredith Murphy |
-<<<<<<< HEAD
-| 20 | Mon, Sep 30 | OOP 2 <br/> OOP 3             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
-| 21 | Tue, Oct 1  | - | [Project Planning and User-Centered Development] | Dani Roxberry | Meredith Murphy |
-| 22 | Wed, Oct 2  | -                             | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
-=======
 | 20 | Mon, Sep 30 | -                             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
 | 21 | Tue, Oct 1  | -                             | Contractor Project Lab | Dani Roxberry | Meredith Murphy |
 | 22 | Wed, Oct 2  | Debugging & Testing <br/> OOP Parts 1, 2 & 3 | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
->>>>>>> 334301e40b0874cd3c3fc56700ef69dd0d37865d
 | 23 | Thu, Oct 3  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
 | 24 | Mon, Oct 7  | -                             | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
 | 25 | Tue, Oct 8  | -                             | Contractor Project Lab | Dani Roxberry | Meredith Murphy |
