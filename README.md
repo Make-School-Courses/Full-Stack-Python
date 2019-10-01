@@ -69,7 +69,7 @@ By the end of the course, you will be able to ...
 | 18 | Wed, Sep 25 | -                             | [OOP Part 3: Polymorphism] | Jess Dahmen | Alan Davis |
 | 19 | Thu, Sep 26 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [ERDs, Resource Associations, & MongoDB]| Dani Roxberry | Meredith Murphy |
 | 20 | Mon, Sep 30 | OOP 2 <br/> OOP 3             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
-| 21 | Tue, Oct 1  | - | Contractor Project Lab Day | Dani Roxberry | Meredith Murphy |
+| 21 | Tue, Oct 1  | - | [Project Planning and User-Centered Development] | Dani Roxberry | Meredith Murphy |
 | 22 | Wed, Oct 2  | -                             | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
 | 23 | Thu, Oct 3  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
 | 24 | Mon, Oct 7  | -                             | Herd Immunity Lab | Jess Dahmen | Alan Davis |
@@ -85,7 +85,7 @@ By the end of the course, you will be able to ...
 | [Mad Libs]                                                |  Wed, Aug 28  |  Tue, Sep 3  | [Submit Mad Libs]           |
 | [Spaceman] + Code Review                                  |  Tue, Sep 3   |  Wed, Sep 11 | [Submit Spaceman]           |
 | [GIF Search] + Pair Programming                           |  Thu, Sep 5   |  Thu, Sep 19 | [Submit GIF Search]         |
-| [Super Hero Team Dueler] + Code Review                    |  Wed, Sep 18  | Mon, Sep 30 | [Submit Superheroes]        |
+| [Super Hero Team Dueler] + Code Review                    |  Wed, Sep 18  |  Mon, Sep 30 | [Submit Superheroes]        |
 | [Playlister]                                              |  Thu, Sep 19  |  Tue, Oct 1  | [Submit Playlister]         |
 | [Herd Immunity Simulation]                                |  Mon, Sep 30  |  Thu, Oct 10 | [Submit Herd Immunity]      |
 | [Contractor Project] + Code Review + Pair Program Session |  Thu, Sep 26  |  Thu, Oct 10 | [Submit Contractor Project] |
@@ -115,6 +115,7 @@ By the end of the course, you will be able to ...
 [Model, View, Controller & Review]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/07-Model-View-Controller/README
 [Document-based Databases]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/08-Document-Based-Databases/README
 [ERDs, Resource Associations, & MongoDB]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/09-ERDs-Resource-Associations-and-MongoDB/README
+[Project Planning and User-Centered Development]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/10-Project-Planning-and-User-Centered-Development/README
 [RESTful APIs & Deployment Environments]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/11-RESTful-APIs-and-Deployment-Environments/README
 
 <!-- CS LESSONS -->
