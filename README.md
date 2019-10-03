@@ -116,7 +116,7 @@ By the end of the course, you will be able to ...
 [Document-based Databases]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/08-Document-Based-Databases/README
 [ERDs, Resource Associations, & MongoDB]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/09-ERDs-Resource-Associations-and-MongoDB/README
 [Project Planning and User-Centered Development]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/10-Project-Planning-and-User-Centered-Development/README
-[RESTful APIs & Deployment Environments]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/11-RESTful-APIs-and-Deployment-Environments/README
+[RESTful APIs & Deployment Environments]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/11-Deployment-Environments/README
 
 <!-- CS LESSONS -->
 [Variables, Functions & Program Design]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/01-Variables-Functions-Program-Design
