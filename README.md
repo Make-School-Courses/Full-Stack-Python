@@ -68,13 +68,13 @@ By the end of the course, you will be able to ...
 | 17 | Tue, Sep 24 | -                             | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
 | 18 | Wed, Sep 25 | -                             | [OOP Part 3: Polymorphism] | Jess Dahmen | Alan Davis |
 | 19 | Thu, Sep 26 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [ERDs, Resource Associations, & MongoDB]| Dani Roxberry | Meredith Murphy |
-| 20 | Mon, Sep 30 | -                             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
+| 20 | Mon, Sep 30 | -                             | [Herd Immunity & Simulation] | Jess Dahmen | Alan Davis |
 | 21 | Tue, Oct 1  | -                             | [Project Planning and User-Centered Development] | Dani Roxberry | Meredith Murphy |
 | 22 | Wed, Oct 2  | Debugging & Testing <br/> OOP Parts 1, 2 & 3 | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
 | 23 | Thu, Oct 3  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
-| 24 | Mon, Oct 7  | -                             | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
+| 24 | Mon, Oct 7  | -                             | Herd Immunity Simulation Project Lab | Jess Dahmen | Alan Davis |
 | 25 | Tue, Oct 8  | -                             | Contractor Project Lab | Dani Roxberry | Meredith Murphy |
-| 26 | Wed, Oct 9  | Computer Components & Organization <br/> CPU Instructions & Memory | Herd Immunity Simulation Project Lab | Jess Dahmen | Alan Davis |
+| 26 | Wed, Oct 9  | OOP Parts 1, 2 & 3 <br/> Computer Components & Organization | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
 | 27 | Thu, Oct 10 | -                             | Final Contractor Project Presentations | Dani Roxberry | Meredith Murphy |
 
 ### Assignment Schedule
@@ -89,6 +89,8 @@ By the end of the course, you will be able to ...
 | [Playlister]                                              |  Thu, Sep 19  |  Tue, Oct 1  | [Submit Playlister]         |
 | [Herd Immunity Simulation]                                |  Mon, Sep 30  |  Thu, Oct 10 | [Submit Herd Immunity]      |
 | [Contractor Project] + Code Review + Pair Program Session |  Thu, Sep 26  |  Thu, Oct 10 | [Submit Contractor Project] |
+
+Read the project rubric before the due date to ensure your code meets all expectations.
 
 <!-- BEW PROJECTS -->
 [Submit GIF Search]: https://make.sc/submit-gif-search
@@ -128,7 +130,7 @@ By the end of the course, you will be able to ...
 [OOP Part 1: Encapsulation]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/07-OOP-1-Encapsulation
 [OOP Part 2: Inheritance]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/08-OOP-2-Inheritance
 [OOP Part 3: Polymorphism]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/09-OOP-3-Polymorphism
-[Herd Immunity Simulation]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/10-Herd-Immunity-Simulation
+[Herd Immunity & Simulation]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/10-Herd-Immunity-Simulation
 [Computer Components & Organization]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/11-Computer-Components
 [CPU Instructions & Memory]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/12-CPU-Instructions-Memory
 
@@ -141,17 +143,19 @@ In addition to the assignments below, you will have smaller coding challenges, g
 
 ### Quizzes
 
-There will be **8 quizzes** held during this course. **Please reference the above schedule for quiz topics and dates.** These quizzes will be used in place of a final exam. Your lowest two quiz scores will be dropped, so your total quiz score will be based off of the other eight.
+There will be **8 quizzes** held during this course. **Please reference the above schedule for quiz topics and dates.** These quizzes will be used in place of a final exam.
+Your lowest quiz score for each course (CS 1.1 and BEW 1.1) will be dropped, so your total quiz score will be based off of the other 3 quizzes in that course.
 
 Quizzes will cover all topics outlined in the schedule, with the **exception** of the following:
 
 - Any lab days
 - Final Contractor Project Presentations
 - Herd Immunity Simulation
+- CPU Instructions & Memory
 
 ### Code Reviews and Pair Programming Sessions
 
-Throughout this course, you will be required to seek out **3 code reviews** and conduct **2 pair programming** sessions on specific assignments. **These will be requirements that must be completed for submitting your assginment.** You will learn about code reviews and pair programming in learning sessions during the first few weeks of the term.
+Throughout this course, you will be required to seek out **3 code reviews** and conduct **2 pair programming** sessions on specific assignments. **These will be requirements that must be completed for submitting your assignment.** You will learn about code reviews and pair programming in learning sessions during the first few weeks of the term.
 
 For code reviews, you must submit the name of the code reviewer and a link to the commit they reviewed in the tracker.
 
