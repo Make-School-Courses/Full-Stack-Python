@@ -75,7 +75,7 @@ By the end of the course, you will be able to ...
 | 24 | Mon, Oct 7  | -                             | Herd Immunity Simulation Project Lab | Jess Dahmen | Alan Davis |
 | 25 | Tue, Oct 8  | -                             | [Contractor Project Lab] | Dani Roxberry | Meredith Murphy |
 | 26 | Wed, Oct 9  | OOP Parts 1, 2 & 3 <br/> Computer Components & Organization | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
-| 27 | Thu, Oct 10 | -                             | Final Contractor Project Presentations | Dani Roxberry | Meredith Murphy |
+| 27 | Thu, Oct 10 | Project Planning and User-Centered Development <br/> RESTful APIs & Deployment Environments | Final Contractor Project Presentations | Dani Roxberry | Meredith Murphy |
 
 ### Assignment Schedule
 
