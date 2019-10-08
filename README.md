@@ -73,7 +73,7 @@ By the end of the course, you will be able to ...
 | 22 | Wed, Oct 2  | Debugging & Testing <br/> OOP Parts 1, 2 & 3 | [Computer Components & Organization] | Jess Dahmen | Alan Davis |
 | 23 | Thu, Oct 3  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
 | 24 | Mon, Oct 7  | -                             | [CPU Instructions & Memory] | Jess Dahmen | Alan Davis |
-| 25 | Tue, Oct 8  | -                             | Contractor Project Lab | Dani Roxberry | Meredith Murphy |
+| 25 | Tue, Oct 8  | -                             | [Contractor Project Lab] | Dani Roxberry | Meredith Murphy |
 | 26 | Wed, Oct 9  | Computer Components & Organization <br/> CPU Instructions & Memory | Herd Immunity Simulation Project Lab | Jess Dahmen | Alan Davis |
 | 27 | Thu, Oct 10 | -                             | Final Contractor Project Presentations | Dani Roxberry | Meredith Murphy |
 
@@ -117,6 +117,7 @@ By the end of the course, you will be able to ...
 [ERDs, Resource Associations, & MongoDB]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/09-ERDs-Resource-Associations-and-MongoDB/README
 [Project Planning and User-Centered Development]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/10-Project-Planning-and-User-Centered-Development/README
 [RESTful APIs & Deployment Environments]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/11-RESTful-APIs-and-Deployment-Environments/README
+[Contractor Project Lab]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/12-Presentation-Practice/README
 
 <!-- CS LESSONS -->
 [Variables, Functions & Program Design]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/01-Variables-Functions-Program-Design
